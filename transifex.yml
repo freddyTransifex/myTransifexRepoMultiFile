@@ -3,5 +3,5 @@ git:
    - filter_type: dynamic
      file_format: TXT
      source_language: en
-     source_files_expression: locale/TestDir
-     translation_files_expression: 'translations/dynamic-filters/<lang>/'
+     source_files_expression: locale/TestDir/<file>.txt
+     translation_files_expression: 'translations/dynamic-filters/<lang>/<file>.txt'
