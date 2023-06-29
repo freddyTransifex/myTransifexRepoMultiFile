@@ -1,0 +1,3 @@
+Some heading content to translate
+Some summary content to translate
+Some body content to translate
